@@ -8,3 +8,39 @@ body {
     color:lightseagreen
 
     }
+    header {
+        padding: 20px;
+        background-color: blue;
+        border-bottom: 5px solid;
+         font-size: 35px;
+         color: black;
+        }
+
+        .texto {
+            font-size: 50px;
+            text-align: justify;
+            color: black;
+
+        }
+        .listas1 {
+            font-size: 50px;
+            text-align: center;
+            list-style-position: inside;
+        }
+
+        .listas2 {
+            font-size: 50px;
+            text-align: center; 
+            list-style: none;
+        }
+
+        .início{
+            padding: 20px;
+            background-color: black;
+            border-bottom: 50px solid white;
+            font-size: 50px;
+            color: aliceblue;
+            display: flex;
+            justify-content: space-around;
+        }
+
